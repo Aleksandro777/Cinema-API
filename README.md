@@ -50,3 +50,8 @@ get access token via /api/user/token/
  * Creating cinema halls
  * Adding movie sessions
  * Filtering movies and movie sessions
+
+## TEST USER
+
+login: 	test@test.com
+password: 1234Test
